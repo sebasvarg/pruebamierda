@@ -1,0 +1,41 @@
+/* Definición de colores */
+:root {
+    --color-1: red;
+    --color-2: blue;
+    --color-3: green;
+    --color-4: yellow;
+    --color-5: orange;
+    --color-6: purple;
+    --color-7: pink;
+    --color-8: brown;
+    --color-9: cyan;
+    --color-10: magenta;
+    --color-11: lime;
+    --color-12: teal;
+    --color-13: indigo;
+    --color-14: violet;
+    --color-15: gold;
+    --color-16: silver;
+    --color-17: gray;
+    --color-18: darkred;
+    --color-19: darkblue;
+    --color-20: darkgreen;
+    --color-21: darkorange;
+  }
+  
+  /* Estilo para los elementos HTML usando colores definidos */
+  body {
+    background-color: var(--color-1);
+    color: var(--color-3);
+  }
+  
+  h1 {
+    color: var(--color-5);
+  }
+  
+  p {
+    color: var(--color-7);
+  }
+  
+  /* Puedes seguir añadiendo estilos para otros elementos según sea necesario */
+  
